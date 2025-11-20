@@ -48,8 +48,10 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+<img width="1111" height="672" alt="image" src="https://github.com/user-attachments/assets/7a9554ff-d238-4da9-9b51-43adab1d729c" />
 
 **Output Timing Waveform**
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8ec69e81-bb48-47b1-91fb-1990017d4d79" />
 
 **Result:**
 
